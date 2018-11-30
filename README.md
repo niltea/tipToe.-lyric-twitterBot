@@ -1,2 +1,2 @@
 # tipToe.-lyric-twitterBot
-tipToe.の歌詞をランダムにTweetしたいやつです
+[tipToe.](http://www.tiptoe-official.com)の歌詞をランダムにTweetしたいやつです
