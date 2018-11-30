@@ -1,0 +1,9 @@
+{
+  "name": "tipToe.-lyric-twitterBot",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "repository": "git@github.com:niltea/tipToe.-lyric-twitterBot.git",
+  "author": "niltea <futurabodoni@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
